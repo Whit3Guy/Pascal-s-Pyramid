@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Algs\bin\Debug\net8.0\Algs.exe
+C:\Users\gabri\source\repos\Algs\bin\Debug\net8.0\Algs.deps.json
+C:\Users\gabri\source\repos\Algs\bin\Debug\net8.0\Algs.runtimeconfig.json
+C:\Users\gabri\source\repos\Algs\bin\Debug\net8.0\Algs.dll
+C:\Users\gabri\source\repos\Algs\bin\Debug\net8.0\Algs.pdb
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.dll
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\refint\Algs.dll
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.pdb
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\ref\Algs.dll
