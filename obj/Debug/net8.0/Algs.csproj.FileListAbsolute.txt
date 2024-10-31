@@ -12,3 +12,4 @@ C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\refint\Algs.dll
 C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.pdb
 C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.genruntimeconfig.cache
 C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\ref\Algs.dll
+C:\Users\gabri\source\repos\Algs\obj\Debug\net8.0\Algs.sourcelink.json
