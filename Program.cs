@@ -1,13 +1,43 @@
 ﻿using Algs;
 
-Console.WriteLine("Hello Pascal!");
-Console.WriteLine("-");    
-Console.WriteLine("-");    
-Console.WriteLine("Insira o número de linhas que você deseja para a pirâmide: ");
+bool loop = true;
 
-int numbLines = int.Parse(Console.ReadLine());
-Console.WriteLine("- - - - - - - - - - - -");    
-Methods.Ppyramid((numbLines));
+    ProgramDesign.Header();
+while (loop)
+{
+    ProgramDesign.Options();    
 
+string decision = Console.ReadLine();
+
+switch(decision)
+{
+    case "1":
+        Console.Clear();
+        Console.WriteLine("Insira o número de linhas da pirâmide");
+        int numbLines = int.Parse(Console.ReadLine());
+        Methods.Ppyramid(numbLines);
+        Console.WriteLine("Deseja prosseguir? (s/n) ");
+        string otherDecision = Console.ReadLine();
+        switch (otherDecision)
+        {
+            case "s":
+                ProgramDesign.Header();
+                break;
+            case "n":
+                loop = false;
+                break;
+            default:
+                loop = false;
+                break;
+                }
+        break;
+    case "2":
+        loop = false; 
+        break;
+    default:
+        ProgramDesign.Header();
+        break;
+}
+}
 
 
